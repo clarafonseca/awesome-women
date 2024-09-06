@@ -1,7 +1,7 @@
 # Awesome Women
 
 Uma lista de artefatos para impulsionar carreiras femininas na tecnologia.
-Inspirada em [awesome-awesomeness] (https://github.com/bayandin/awesome-awesomeness). 🐱
+Inspirada em [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness). 🐱
 
 Se você quiser contribuir, leia o [guia para contribuição](https://github.com/clarafonseca/awesome-women/blob/main/CONTRIBUTING.md).
 
