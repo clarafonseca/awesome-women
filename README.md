@@ -9,6 +9,7 @@ Se você quiser contribuir, leia o [guia para contribuição](https://github.com
 
 - [Awesome Women](#awesome-women)
     - [Iniciativas](#iniciativas)
+    - [Eventos e Conferências](#eventos-e-conferências)
     - [Mulheres para acompanhar](#mulheres-para-acompanhar)
 
 
