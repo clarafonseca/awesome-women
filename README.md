@@ -28,6 +28,8 @@ Programas e plataformas que capacitam, conectam e apoiam mulheres em tecnologia,
 * [PrograMaria](https://www.programaria.org/) - Startup de impacto social dedicada a empoderar meninas e mulheres, promovendo diversidade e inclusão no mundo da tecnologia por meio de oficinas, eventos e treinamentos técnicos.
 * [PyLadies](https://brasil.pyladies.com/about/) - Comunidade global que foi trazida ao Brasil e promove a inclusão de mulheres na tecnologia, inspirando-as a explorar e revolucionar o mundo da programação e computação.
 * [Pretalab](https://www.pretalab.com/) - Iniciativa do Olabi, dedicada a conectar e capacitar mulheres negras na tecnologia, oferecendo formação técnica gratuita, consultorias e uma rede de profissionais para promover a diversidade e inclusão no setor tecnológico.
+* [Women Techmakers](https://developers.google.com/womentechmakers?hl=pt-br) - Programa do Google que oferece visibilidade, comunidade e recursos para mulheres na tecnologia.
+
 
 ## Eventos e Conferências
 
@@ -36,6 +38,7 @@ Encontros e competições que celebram, discutem e capacitam mulheres na tecnolo
 * [Maratona Feminina de Programação (MFP)](https://www.instagram.com/mfp.sbc/) - Competição que visa promover e apoiar mulheres e pessoas não-binárias na programação competitiva, oferecendo recursos e orientações contínuas para sua preparação e participação no evento.
 * [WIT – Women in Information Technology](https://csbc.sbc.org.br/2024/wit/) - Evento que, desde 2007, discute a inclusão e a promoção de mulheres na área de TI no Brasil, abordando temas como políticas de incentivo, histórias de sucesso e estratégias para engajar e atrair jovens para carreiras tecnológicas.
 * [AWSome Women Community Summit](https://www.awswomencommunitybrasil.com/) - Evento global que, pela primeira vez no Brasil, celebra e capacita mulheres na tecnologia, promovendo diversidade, inclusão e networking, com foco em educação e inovação em áreas como cloud computing, desenvolvimento de software e segurança cibernética.
+
 
 ## Mulheres para acompanhar
 
